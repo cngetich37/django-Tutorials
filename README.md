@@ -1,1 +1,1 @@
-# implementation-of-different-algorithms-in-Python
+# different django tutorials 
